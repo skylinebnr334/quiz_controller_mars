@@ -6,7 +6,7 @@ class ScreenTopBar extends StatelessWidget{
   Widget build(BuildContext context){
     return Row(
       children: [
-
+        Text("A")
       ],
     );
   }
